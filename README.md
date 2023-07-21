@@ -1,3 +1,9 @@
+RL code for RVO2 (ORCA) environment using DDQN with the PFRL reinforcement learning library for python.
+Requirements: Python bindings for ORCA (see below) and PFRL (https://github.com/pfnet/pfrl)
+Once the requirements are installed, just run rl3.py to see the current environment.
+
+
+
 Python bindings for Optimal Reciprocal Collision Avoidance
 ==========================================================
 
